@@ -1,2 +1,2 @@
 # YangGitHub
-my githome
+my code repository，YangGitHub.
