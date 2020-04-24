@@ -1,2 +1,3 @@
 # YangGitHub
-my code repository，YangGitHub.
+- just another repository
+- my code repository，YangGitHub.
